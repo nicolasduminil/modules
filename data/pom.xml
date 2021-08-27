@@ -45,6 +45,10 @@
       <groupId>fr.simplex_software.sb</groupId>
       <artifactId>commons</artifactId>
     </dependency>
+    <dependency>
+      <groupId>fr.simplex_software.sb</groupId>
+      <artifactId>commons-impl</artifactId>
+    </dependency>
   </dependencies>
   <build>
     <finalName>${project.artifactId}</finalName>
